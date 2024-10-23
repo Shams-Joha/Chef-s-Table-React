@@ -35,6 +35,17 @@ const Recipes = () => {
                                 }
 
                             </ul>
+                            <div className="flex gap-4">
+                                <div className="flex items-center">
+                                    <i className="fa-regular fa-clock mr-2 text-2xl"></i>
+                                    <p className=" flex items-center">{recipe.preparing_time}</p>
+                                </div>
+                                <div className="flex items-center">
+                                    <i className="fa-solid fa-fire-flame-curved mr-2 text-2xl"></i>
+                                    <p className=" flex items-center">{recipe.calories}</p>
+                                </div>
+                            </div>
+
                             <div className="card-actions justify-end">
                                 <button className="btn btn-primary">Buy Now</button>
                             </div>
