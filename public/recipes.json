@@ -10,8 +10,8 @@
             "200 g basil leaves",
             "400 g mushrooms"
         ],
-        "preparing_time": "30 min",
-        "calories": "320 calories"
+        "preparing_time": 30,
+        "calories": 320
     },
     {
         "recipe_id": 2,
@@ -25,8 +25,8 @@
             "2 large eggs",
             "2 cloves garlic"
         ],
-        "preparing_time": "20 min",
-        "calories": "400 calories"
+        "preparing_time": 20,
+        "calories": 400
     },
     {
         "recipe_id": 3,
@@ -40,8 +40,8 @@
             "50 g onions",
             "2 tbsp olive oil"
         ],
-        "preparing_time": "15 min",
-        "calories": "150 calories"
+        "preparing_time": 15,
+        "calories": 150
     },
     {
         "recipe_id": 4,
@@ -55,8 +55,8 @@
             "100 g lettuce",
             "6 taco shells"
         ],
-        "preparing_time": "25 min",
-        "calories": "350 calories"
+        "preparing_time": 25,
+        "calories": 350
     },
     {
         "recipe_id": 5,
@@ -70,8 +70,8 @@
             "4 tbsp Caesar dressing",
             "1 garlic clove"
         ],
-        "preparing_time": "20 min",
-        "calories": "280 calories"
+        "preparing_time": 20,
+        "calories": 280
     },
     {
         "recipe_id": 6,
@@ -85,7 +85,7 @@
             "2 red chili peppers",
             "3 tbsp fish sauce"
         ],
-        "preparing_time": "35 min",
-        "calories": "220 calories"
+        "preparing_time": 35,
+        "calories": 220
     }
 ]
