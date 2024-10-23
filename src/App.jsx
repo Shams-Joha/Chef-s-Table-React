@@ -1,8 +1,16 @@
+import Banner from "./components/Banner";
+import Header from "./components/Header";
+import OurRecipes from "./components/OurRecipes";
 
 const App = () => {
   return (
-    <div>
-      
+    <div className="container mx-auto px-4">
+      {/* Header or navbar goes here */}
+      <Header></Header>
+      {/* Banner Goes Here */}
+      <Banner></Banner>
+      {/* Our Recipes Section Goes here */}
+      <OurRecipes></OurRecipes>
     </div>
   );
 };
